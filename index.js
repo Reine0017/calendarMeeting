@@ -5,7 +5,7 @@ const fetch = require('node-fetch');
 const Alexa = require('ask-sdk');
 //var https = require('https');
 
-const api_token = "a4f253c268018e60b10cc386ad46f61752add01431186cb03305b8c05e3470f3";
+const api_token = "a string here";
 const recipe_url = "https://apim.workato.com/test-v1496/calendar-sync";
 
 /*
